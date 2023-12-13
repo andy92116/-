@@ -136,3 +136,15 @@ div{
         color: #81D8D0;
         text-decoration:none;
     }
+    /* 按鈕 */
+    input{border:0;
+        background-color:#003C9D;
+        color:#fff;
+        border-radius:10px;
+        cursor:pointer;}
+      
+      input:hover{
+        color:#003C9D;
+        background-color:#fff;
+        border:2px #003C9D solid;
+      }
